@@ -1,7 +1,7 @@
 ### Hi there 👋, Mariqn Dimitrov
 I am a student at Sofia University 'St. Kliment Ohridski' in the Faculty of Mathematics and Informatics, majoring in Mathematics and Informatics, also a student at SoftUni Bulgaria. I love writing code in Python and JavaScript and am interested in creating websites. My dream is to become a programmer and develop in the field of programming.
 
-Skills: Python JavaScript HTML CSS
+Skills: Python / JavaScript / HTML / CSS
 
 
 
