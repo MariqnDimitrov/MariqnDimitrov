@@ -3,8 +3,6 @@ I am a student at Sofia University 'St. Kliment Ohridski' in the Faculty of Math
 
 
 
-asd
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariqndimitrovv) 
